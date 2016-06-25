@@ -2,7 +2,7 @@
 Financial Visualisation
 
 
-Correlation Tables
-Pairs trading
-Biggest Movers
-Cryptocurrency
+Correlation Tables -
+Pairs trading - 
+Biggest Movers - 
+Cryptocurrency - 
